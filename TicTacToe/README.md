@@ -1,5 +1,6 @@
 # TicTacToe
-Popularna gra w kółko i krzyżyk wykonana w ramach realizacji przedmiotu Programowanie Gier podczas studiów. Główną ideą było zaimplementowanie algorytmu MINIMAX dla AI.
+Popularna gra w kółko i krzyżyk wykonana w ramach realizacji przedmiotu Programowanie Gier podczas studiów. 
+Główną ideą było zaimplementowanie algorytmu MINIMAX dla AI.
 
 ### Przykładowe zrzuty ekranu z gry:
 <kbd>![alt-text](https://github.com/JakubMakaruk/GameDev/blob/master/TicTacToe/zdj1.png)</kbd>
